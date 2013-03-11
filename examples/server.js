@@ -17,7 +17,7 @@ server.use('/basic', basic)
 var complex = express()
 complex.get('/', ver.gte('0.0.0'), hello)
 complex.get('/', hello)
-server.use('/basic', complex)
+server.use('/complex', complex)
 
 
 server.listen(3000)
