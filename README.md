@@ -1,6 +1,6 @@
 # Express-Semver
 
-This is just a simple middleware for semver-style API versioning with express. This uses [isaacs semver module](http://github.com/isaacs/semver), so all the same versioning string rules apply as npm itself.
+This is just a simple middleware for semver-style API versioning with express. This uses isaacs [semver](http://github.com/isaacs/node-semver) module, so all the same versioning string rules apply as npm itself.
 
 ## Install
 
