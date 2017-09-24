@@ -1,4 +1,6 @@
 # Express-Semver
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/express-semver.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Qard/express-semver.png)](https://travis-ci.org/Qard/express-semver)
 
 This is just a simple middleware for semver-style API versioning with express. This uses isaacs [semver](http://github.com/isaacs/node-semver) module, so all the same versioning string rules apply as npm itself.
